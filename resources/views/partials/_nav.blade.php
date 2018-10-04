@@ -64,7 +64,7 @@
                                 <li><a href="{{route('categories.index')}}">Categories</a></li>
                                 <li><a href="{{route('tags.index')}}">Tags</a></li>
                                 <li role="separator" class="divider"></li>
-                                <li><a href="#">Separated link</a></li>
+                                <li><a href="/posts">Create Post</a></li>
                               </ul>
                             </li>
                           </ul>
